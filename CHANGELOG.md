@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.9.1
+
+### Fixed
+
+- check for empty fields in flipcard element
+
 ## 1.9.0
 
 ### Added
